@@ -14,9 +14,9 @@ Ensures responses are informative, empathetic, and non-diagnostic.
 🧰 Tech Stack
 Frontend: HTML, CSS, JavaScript
 
-AI Model: ClinicalBERT from HuggingFace – fine-tuned on real-world medical data (MIMIC-III).
+AI Model: ClinicalBERT from HuggingFace – fine-tuned on real-world medical data (MIMIC-III) & Gemini APi
 
-Deployment: Netlify
+Deployment: Netlify for website & Vercel for CHATBOT
 
 Dataset Insights: Utilizes medically validated datasets for accuracy and context, with a focus on practical healthcare scenarios.
 
@@ -29,6 +29,16 @@ Designed for awareness and support, not for prescriptions or critical diagnosis.
 We built Azzle to bridge the information gap between panic-googling symptoms and speaking to a real doctor. With powerful AI like ClinicalBERT, we provide contextual and relevant insights — especially for users in low-access environments or who need immediate mental health support.
 
 📍 Live Demo
+<<<<<<< HEAD
     https://azzleai.netlify.app/
+=======
+    Website :https://azzleai.netlify.app/ 
+    Chatbot:https://kataria-bot.vercel.app/
 
-Let me know if you want a README format with badges, installation instructions, and contributing guidelines!
+👥 Contributors
+DEV BHARDWAJ - 2401010082
+UMESH - 2401010015
+Under the Guidance of: Mr. Pankaj Agarwal
+Affiliation: KR Mangalam University
+>>>>>>> ee2e1a6ecbed40b8f3bb88d77f0febf44e83851f
+
