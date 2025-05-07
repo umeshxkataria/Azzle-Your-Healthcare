@@ -29,6 +29,6 @@ Designed for awareness and support, not for prescriptions or critical diagnosis.
 We built Azzle to bridge the information gap between panic-googling symptoms and speaking to a real doctor. With powerful AI like ClinicalBERT, we provide contextual and relevant insights — especially for users in low-access environments or who need immediate mental health support.
 
 📍 Live Demo
-https://stellar-vacherin-b9bf78.netlify.app
+    https://azzleai.netlify.app/
 
 Let me know if you want a README format with badges, installation instructions, and contributing guidelines!
