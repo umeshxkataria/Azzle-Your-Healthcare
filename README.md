@@ -29,9 +29,7 @@ Designed for awareness and support, not for prescriptions or critical diagnosis.
 We built Azzle to bridge the information gap between panic-googling symptoms and speaking to a real doctor. With powerful AI like ClinicalBERT, we provide contextual and relevant insights — especially for users in low-access environments or who need immediate mental health support.
 
 📍 Live Demo
-<<<<<<< HEAD
-    https://azzleai.netlify.app/
-=======
+
     Website :https://azzleai.netlify.app/ 
     Chatbot:https://kataria-bot.vercel.app/
 
@@ -40,5 +38,5 @@ DEV BHARDWAJ - 2401010082
 UMESH - 2401010015
 Under the Guidance of: Mr. Pankaj Agarwal
 Affiliation: KR Mangalam University
->>>>>>> ee2e1a6ecbed40b8f3bb88d77f0febf44e83851f
+
 
